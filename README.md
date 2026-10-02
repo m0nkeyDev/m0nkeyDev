@@ -20,7 +20,7 @@
 - 💻 Actualmente trabajo como **freelancer** desarrollando aplicaciones **fullstack**.
 - 🧩 Stack principal: **Angular** en el frontend y **Django / Django REST Framework** en el backend.
 - 🌱 Siempre aprendiendo algo nuevo, hoy enfocado en arquitecturas limpias y APIs escalables.
-- 💞️ Abierto a colaborar en **proyectos interesantes** — ¡escríbeme!
+- 💞️ Abierto a colaborar en **proyectos interesantes** - escríbeme!
 - 🌐 Mi sitio: **[containerdevs.onrender.com](https://containerdevs.onrender.com/)**
 
 ---
@@ -51,11 +51,9 @@
 
 ## 🇪🇸 Spanish
 
-¡Hola! Si deseas contactarme, puedes encontrarme por **Telegram** → [t.me/m0nkeyDev](https://t.me/m0nkeyDev)
-
 🌐 Mi sitio: **[containerdevs.onrender.com](https://containerdevs.onrender.com/)**
 
-Actualmente me dedico al desarrollo **fullstack** con **Angular** y **Django / DRF**. Estoy abierto a colaborar en proyectos interesantes — si necesitas ayuda, escríbeme sin problema. Mi mundo es en español. 🇪🇸
+Actualmente me dedico al desarrollo **fullstack** con **Angular** y **Django / DRF**. Estoy abierto a colaborar en proyectos interesantes - si necesitas ayuda, escríbeme sin problema. Mi mundo es en español. 🇪🇸
 
 ---
 
